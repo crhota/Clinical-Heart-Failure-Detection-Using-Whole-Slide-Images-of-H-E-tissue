@@ -39,3 +39,6 @@ Post course completion, Chinmoy continued on further work beyond Version 0.19.
 
 ### Summary<br>
 <img src="images/project_summary.png">
+
+### Inferences<br>
+<img src="images/project_inference.png">
