@@ -1,4 +1,4 @@
-https://zenodo.org/badge/latestdoi/324219856
+<img src="https://zenodo.org/badge/324219856.svg">
 
 # Clinical-Heart-Failure-Detection-Using-Whole-Slide-Images-of-H-E-tissue
 
