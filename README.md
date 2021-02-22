@@ -4,7 +4,7 @@ This project implements code for detecting clinical heart failure from whole sli
 ## Aim of the Project<br>
 Automated detection of clinical heart failure from Whole-Slide Images of H&E tissue using a Convolutional Neural Network. Determine whether the given histopathology patch image (250x250x3) is normal or has a heart failure (binary classification).
 
-**Background**<br>
+## Background<br>
 This project (till Version 0.19) was done as a Capstone Project as part of 'Advanced Program in Digital Health and Imaging - Cohort1 - Aug'20 to Jan'21' from Indian Institute of Science (IISc), Bengaluru.
 - Project Contributors: **Chinmoy Raj Hota** and **Ashwin Kumar**
 - Project Mentor: **Dr. Phaneendra Yalavarthy, Associate Professor, Computational Data Science Dept.(CDS), IISc, Bengaluru**
@@ -14,8 +14,8 @@ We express our sincere gratitude to the Dr. Phaneendra and Naveen for the guidan
 
 Post course completion, Chinmoy continued on further work beyond Version 0.19.
 
-**Capstone Project Summary (till Version 0.19)**<br>
+## Capstone Project Summary (till Version 0.19)<br>
 
-**Methods that have been deployed**<br>
+### Methods that have been deployed<br>
 - Transfer Learning with ResNet50
 - Transfer Learning and Fine Tuning with MobileNet V1
