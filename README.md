@@ -42,3 +42,13 @@ Post course completion, Chinmoy continued on further work beyond Version 0.19.
 
 ### Inferences<br>
 <img src="images/project_inference.png">
+Reference(1) : https://www.nature.com/articles/s41598-020-58467-9
+
+### Other Inferences<br>
+- The H&E images have a high variety of information in them. Hence, although being a binary classification problem, a DL solution proves to be a best bet.    
+- Batch Normalization, Regularization and Data Augmentation did not help improve the accuracy as the binary classes are balanced. 
+- There is site to site process variability in Whole Slide Image Capture. Hence, the model might need site level customization to be more effective. This might require model to get trained on lesser data. 
+
+## Summary (Post Course Completion / Post Version 0.19)<br>
+<img src="images/HE_Summary.png">
+
