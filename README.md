@@ -9,9 +9,7 @@ This project (till Version 0.19) was done as a Capstone Project as part of 'Adva
 - Project Contributors: **Chinmoy Raj Hota** and **Ashwin Kumar**
 - Project Mentor: **Dr. Phaneendra Yalavarthy, Associate Professor, Computational Data Science Dept.(CDS), IISc, Bengaluru**
 - Supported by: **Naveen Paluru, PhD Scholar at CDS, IISc**
-
 We express our sincere gratitude to the Dr. Phaneendra and Naveen for the guidance and support in completing the project. We are very thankful to the Cohort1 Group Members for the class interactions which enhanced our knowledge. We also would like to thank the creators/authors of the information mentioned in the References section which helped us a lot in the project development.
-
 Post course completion, Chinmoy continued on further work beyond Version 0.19.
 
 **Capstone Project Summary (till Version 0.19)**<br>
