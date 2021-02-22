@@ -38,3 +38,4 @@ Post course completion, Chinmoy continued on further work beyond Version 0.19.
 - Cross Validation(CV): Stratified K Fold, 4 Folds
 
 ### Summary<br>
+<img src="images/project_summary.PNG">
